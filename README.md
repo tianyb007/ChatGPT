@@ -1,6 +1,8 @@
 # ChatGPT
 ChatGPT使用心得，使用指南，进阶方法
 
+
+
 # 使用心得
 在让ChatGPT完成自己需要的任务，这里需要让ChatGPT进行角色扮演。
 
@@ -13,7 +15,10 @@ ChatGPT使用心得，使用指南，进阶方法
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 
+# open ai 官方文档
+https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
 
+temperture的值设置范围为0-1，越大思考的越久，创新性越强，越小，思考的就越少，给出更符合过去规律的答案。
 
 
 # 绘图prompt
