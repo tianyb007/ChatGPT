@@ -25,6 +25,9 @@ temperture的值设置范围为0-1，越大思考的越久，创新性越强，�
 著名的女朋友生成器prompt:  A Chinese 18-year-old girl, student, blue skirt, looks slightly like Michelle Yeoh, smiling face, black hair, standing, at university, spring season, the roadside is full of crabapple blossoms, hyper realistic portrait photography, pale skin, natural lighting, Nikon NIKKOR Z, 85mm f1. 8 S --v 5
 
 
+# 没有必要过度神话
+面对网络上铺天盖地的消息，我们没有必要神话一个工具。
 
+http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html
 
 
