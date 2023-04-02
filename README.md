@@ -31,3 +31,37 @@ temperture的值设置范围为0-1，越大思考的越久，创新性越强，�
 http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html
 
 
+## prompt教程
+
+https://learningprompt.wiki/
+
+如果你不知道能拿 ChatGPT 或者其他 AI 产品来干什么。如果你不知道如何更好地使用 OpenAI 提供的 API。那本教程应该能帮到你。这是一份教你如何更好使好地使用 ChatGPT 和其他 AI 产品的免费教程。
+
+本教程不是 prompt 大全，如果你预期是找到能直接用的 prompt，建议你谷歌找一找。本教程更多地是教你方法，以及解释这些方法为何有效。本教程也不是权威指南，在这个领域我也只是学生。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
